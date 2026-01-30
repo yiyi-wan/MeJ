@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "MATh.en.Jeans@Orsay"
+  favicon: 308840950_471317931706502_4736231536318399195_n.png
+  navbar:
+    logo: 308840950_471317931706502_4736231536318399195_n.png
+    logo-alt: "MeJ Logo"
+    right:
+      - text: "Home"
+        href: index.qmd
+
+      - text: "2025-2026"
+        href: 2025-2026/2025-2026.qmd
+
+      - text: "Archive"
+        menu: 
+          - text: "2024-2025"
+            href: 2024-2025/2024-2025.qmd
+          - text: "2023-2024"
+            href: 2023-2024/2023-2024.qmd
+          - text: "2022-2023"
+            href: 2022-2023/2022-2023.qmd
+        
+format:
+  html:
+    theme:
+      - custom.scss
+    toc: true

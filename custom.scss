@@ -1,0 +1,103 @@
+/*-- scss:defaults --*/
+
+/* Theme variables */
+$mej-primary: #f39200;
+$mej-primary-dark: #d97f00;
+$mej-dark: #222222;
+$mej-link: #1f6fb2;
+$mej-bg: #f9fafc;
+
+/*-- scss:rules --*/
+
+body {
+  background-color: $mej-bg;
+  color: $mej-dark;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: #ffffff;
+  border-bottom: 2px solid rgba(0,0,0,0.06);
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: $mej-dark !important;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover {
+  color: $mej-primary !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: $mej-dark;
+  font-weight: 700;
+}
+
+/* Links */
+a {
+  color: $mej-link;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $mej-primary;
+  text-decoration: underline;
+}
+
+/* Buttons */
+.btn, .btn-primary {
+  background-color: $mej-primary;
+  border-color: $mej-primary;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 4px;
+}
+
+.btn:hover, .btn-primary:hover {
+  background-color: $mej-primary-dark;
+  border-color: $mej-primary-dark;
+  color: #fff;
+}
+
+/* Section titles */
+.section-title, .page-header {
+  border-bottom: 3px solid $mej-primary;
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+}
+
+/* Tables */
+table th {
+  background-color: $mej-primary;
+  color: white;
+  font-weight: 600;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Code blocks */
+code, pre {
+  background-color: rgba(0,0,0,0.04);
+  color: $mej-dark;
+  font-family: "Courier New", monospace;
+}
+
+/* Spacing */
+main {
+  padding-top: 1em;
+  padding-bottom: 3em;
+}
+
+/*-- scss:rules --*/
