@@ -7,3 +7,6 @@ title: "Atelier 2024-2025"
 [Sujets](sujets_2024-205_beamer.pdf)
 
 ## Productions
+
+- [Rapport Écrit](article_La_vasque_olympique.pdf)
+- [Slides de Présentation](slides_La_vasque_olympique.pdf)
