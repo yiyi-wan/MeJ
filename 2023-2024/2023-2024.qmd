@@ -9,4 +9,4 @@ title: "Atelier 2023-2024"
 ## Productions
 
 - [Rapport Écrit](Desiteration/Prix%20Fermat%20Junior/Desiteration.pdf)
-- [Poster de Présentation](Desiteration/Congre%CC%80s/MeJ%20affiche.pdf)
+- [Poster de Présentation](Desiteration/Congrès/MeJ%20affiche.pdf)
