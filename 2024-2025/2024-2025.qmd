@@ -8,5 +8,12 @@ title: "Atelier 2024-2025"
 
 ## Productions
 
-- [Rapport Écrit](article_La_vasque_olympique.pdf)
-- [Slides de Présentation](slides_La_vasque_olympique.pdf)
+### Sujet : La Vasque Olympique
+
+- [Rapport Écrit](Vasque/article_La_vasque_olympique.pdf)
+- [Slides de Présentation](Vasque/slides_La_vasque_olympique.pdf)
+
+### Sujet : Doublons dans le Triangle de Pascal
+
+- [Rapport Écrit](Pascal/pascal_final.pdf)
+- [Slides de Présentation](Pascal/Slides%20Les%20doublons%20dans%20le%20triangle%20de%20Pascal.pdf)
