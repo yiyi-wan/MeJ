@@ -7,3 +7,6 @@ title: "Atelier 2025-2026"
 [Sujets](sujets_2025-2026_beamer.pdf)
 
 ## Productions
+
+### Labyrinthe
+- [Rapport Écrit](Labyrinte/Marches%20al%C3%A9atoires%20et%20r%C3%A9solution%20de%20labyrinthes.pdf)

@@ -17,3 +17,4 @@ title: "Atelier 2024-2025"
 
 - [Rapport Écrit](Pascal/pascal_final.pdf)
 - [Slides de Présentation](Pascal/Slides%20Les%20doublons%20dans%20le%20triangle%20de%20Pascal.pdf)
+- [Poster de Présentation](Pascal/Poster%20doublons%20dans%20le%20triangle%20de%20Pascal%20(Pr%C3%A9sentation)%20(2).pdf)
