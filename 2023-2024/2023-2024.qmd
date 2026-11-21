@@ -12,4 +12,4 @@ title: "Atelier 2023-2024"
 
 - [Rapport Écrit](Désitération/Prix%20Fermat%20Junior/Désitération.pdf)
 - [Poster de Présentation](Désitération/Congrès/MeJ%20affiche.pdf)
-- [Figure](De%CC%81site%CC%81ration/Congre%CC%80s/MeJ%20Jeu.pdf)
+- [Figure](Désitération/Congrès/MeJ%20Jeu.pdf)
